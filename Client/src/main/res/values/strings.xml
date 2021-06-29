@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test_App</string>
+    <string-array name="Task">
+        <item>Сложение</item>
+        <item>Вычитание</item>
+        <item>Произведение</item>
+        <item>Определитель</item>
+        <item>Ранг</item>
+    </string-array>
+</resources>
